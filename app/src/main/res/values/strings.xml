@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">UtuSdkDemo2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">开始测量</string>
+    <string name="stop">停止测量</string>
+    <string name="get_version">获取版本号</string>
+    <string name="bel_conn">连接蓝牙</string>
+    <string name="userinfo_update">更新用户信息</string>
+    <string name="device_update">设备升级</string>
+
+    <string name="heart_rate">心率:%1$d</string>
+    <string name="resp_rate">呼吸率:%1$d</string>
+    <string name="hrv">心率变异性:%1$d</string>
+    <string name="arrhythmia">心律失常:%1$d</string>
+    <string name="premature_beat">早搏:%1$d</string>
+    <string name="missed_beat">漏博:%1$d</string>
+    <string name="ecg_data">实时ECG数据:%1$d</string>
+    <string name="pose">姿态:</string>
+    <string name="power_level">电量:%1$d</string>
+    <string name="current_data">实时数据</string>
+    <string name="statistical_data">统计数据</string>
+    <string name="avr_hr">平均心率:%1$d</string>
+    <string name="fastest_hr">最快心率:%1$d</string>
+    <string name="slowest_hr">最慢心率:%1$d</string>
+    <string name="rr_intervel">平均RR间期:%1$d</string>
+    <string name="apb_count">房早总数:%1$d</string>
+    <string name="pvc_count">室早总数:%1$d</string>
+    <string name="tach_count">心动过缓总数:%1$d</string>
+    <string name="brad_count">心动过速总数:%1$d</string>
+    <string name="miss_count">长间歇总数:%1$d</string>
+    <string name="beat_count">心搏总数:%1$d</string>
+    <string name="avr_resp_rate">平均呼吸率:%1$d</string>
+
+
+    <string name="unknow">未知</string>
+    <string name="update_frimware">固件升级</string>
+    <string name="update_ble">蓝牙升级</string>
+    <string name="current_firmware_version">当前固件版本号：%1$s。当前工作区：%2$s</string>
+    <string name="new_firmware_version">最新固件版本号：%1$s</string>
+    <string name="firmware_update_process">固件升级进度：%1$s</string>
+    <string name="stop_update">停止升级</string>
+    <string name="current_ble_version">当前蓝牙版本号：%1$s。当前工作区：%2$s</string>
+    <string name="new_ble_version">最新蓝牙版本号：%1$s</string>
+    <string name="ble_update_process">蓝牙升级进度：%1$s</string>
+
+</resources>
